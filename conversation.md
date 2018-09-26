@@ -1,19 +1,33 @@
-What are doing sir?
+What are doing sir?  
 I'm having breakfast.
 
 	let food = ['break Fast'];
 
-then what next?
+then what next?  
 he he. lunch
 
 	food.push('lunch');
 
-so you don't drink bed coffee?
+so you don't drink bed coffee?  
 ofcourse my horse. yes i do that blunder.
 
 	food.unshift('coffee');
 
-OK then, Lets have drink with me in pantry, before you go to lunch?
+OK then, Lets have drink with me in pantry, before you go to lunch?  
 sure. why not.
 
 	food.splice(2, 0, 'juice');
+
+How is the Juice taste ?  
+Juice was very good. whats your dinner plan ?  
+hmmm. we can go to Mc. Donalds
+
+	food.push('dinner');
+
+Instinct :D  
+	food.push('beer');
+
+Can i drop you. beer ?  
+No thanks bye.
+
+	food.pop();
