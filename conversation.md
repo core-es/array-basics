@@ -24,7 +24,7 @@ hmmm. we can go to Mc. Donalds
 
 	food.push('dinner');
 
-Instinct :D  
+Instinct of Him :D  
 	food.push('beer');
 
 Can i drop you. beer ?  
