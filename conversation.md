@@ -1,4 +1,4 @@
-What are doing sir?  
+Hello, What are you doing?  
 I'm having breakfast.
 
 	let food = ['break Fast'];
@@ -28,6 +28,11 @@ Instinct :D
 	food.push('beer');
 
 Can i drop you. beer ?  
-No thanks bye.
+No thanks i can catch a train.
 
 	food.pop();
+	
+Anyways, Happy Weekend. enjoy your tomorrows bed coffee.
+Nope, will not drink bed coffee from tomorrow is a challenge !
+
+    	food.shift();
