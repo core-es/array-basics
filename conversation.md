@@ -4,7 +4,7 @@ Hey, I'm `jack dawson`.
 
 Hello jack,
 
-	console.log(`Hello ${name}`);
+	console.log(`Hello ${name[0]}`);
 	
 This is `rose dewitt bukater`
 
