@@ -1,7 +1,19 @@
-Hello, What are you doing?  
+Hey, I'm `jack dawson`.
+
+	const hero = ['jack', 'dawson'];
+
+Hello jack,
+
+	console.log(`Hello ${name}`);
+	
+This is `rose dewitt bukater`
+
+	const heroine = ['rose', 'dewitt bukater'];
+
+What are you doing?  
 I'm having breakfast.
 
-	let food = ['break Fast'];
+	const food = ['break Fast'];
 
 then what next?  
 he he. lunch
