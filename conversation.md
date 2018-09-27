@@ -1,51 +1,51 @@
-Hey, I'm `jack dawson`.
+Jack: Hey, I'm `jack dawson`.
 
 	const hero = ['jack', 'dawson'];
 
-Hello jack,
+Rose: Hello jack,
 
 	console.log(`Hello ${name[0]}`);
 	
-This is `rose dewitt bukater`
+Rose: This is `rose dewitt bukater`
 
 	const heroine = ['rose', 'dewitt bukater'];
 
-What are you doing?  
-I'm having breakfast.
+Jack: What are you doing?  
+Rose: I'm having breakfast.
 
 	const food = ['break Fast'];
 
-then what next?  
-he he. lunch
+Jack: then what next?  
+Rose: he he. lunch
 
 	food.push('lunch');
 
-so you don't drink bed coffee?  
-ofcourse my horse. yes i do that blunder.
+Jack: so you don't drink bed coffee?  
+Rose: ofcourse my horse. yes i do that blunder.
 
 	food.unshift('coffee');
 
-OK then, Lets have drink with me in pantry, before you go to lunch?  
-sure. why not.
+Jack: OK then, Lets have drink with me in pantry, before you go to lunch?  
+Rose: sure. why not.
 
 	food.splice(2, 0, 'juice');
 
-How is the Juice taste ?  
-Juice was very good. whats your dinner plan ?  
-hmmm. we can go to Mc. Donalds
+Jack: How is the Juice taste ?  
+Rose: Juice was very good. whats your dinner plan ?  
+Jack: hmmm. we can go to Mc. Donalds
 
 	food.push('dinner');
 
-Instinct of Him :D  
+Jack's Instinct of Him :D  
 
 	food.push('beer');
 
-Can i drop you. beer ?  
-No thanks i can catch a train.
+Jack: Can i drop you. beer ?  
+Rose: No thanks i can catch a train.
 
 	food.pop();
 	
-Anyways, Happy Weekend. enjoy your tomorrows bed coffee.  
-Nope, will not drink bed coffee from tomorrow is a challenge !
+Jack: Anyways, Happy Weekend. enjoy your tomorrows bed coffee.  
+Rose: Nope, will not drink bed coffee from tomorrow is a challenge !
 
 	food.shift();
