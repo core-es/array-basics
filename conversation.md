@@ -49,3 +49,16 @@ Jack: Anyways, Happy Weekend. enjoy your tomorrows bed coffee.
 Rose: Nope, will not drink bed coffee from tomorrow is a challenge !
 
 	food.shift();
+
+### Last night
+	food.push('hot water');
+	
+## Next day
+
+Jack: Good morning Rose!
+Rose: Good morning.
+Jack: So you didn't had coffeem last night ?.
+Rose: Yes, I'm not. managed with Hot water.
+
+	
+	let lastNightItem = food[food.length - 1];
