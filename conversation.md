@@ -58,7 +58,7 @@ Rose: Nope, will not drink bed coffee from tomorrow is a challenge !
 
 Jack: Good morning Rose!  
 Rose: Good morning.  
-Jack: So you didn't had coffeem last night ?  
+Jack: So you didn't had coffee last night ?  
 Rose: Yes, I'm not. managed with Hot water  
 
 	
