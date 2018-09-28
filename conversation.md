@@ -62,4 +62,4 @@ Jack: So you didn't had coffeem last night ?.
 Rose: Yes, I'm not. managed with Hot water.
 
 	
-	let lastNightItem = food[food.length - 1];
+	let lastNightFood = food[food.length - 1];
