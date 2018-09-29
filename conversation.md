@@ -10,7 +10,7 @@ Rose: This is `rose dewitt bukater`
 
 	const heroine = ['rose', 'dewitt bukater'];
 
-Rose: Hi rose,
+Jack: Hi rose,
 
 	console.log(`Hello ${heroine[0]}`);
 
