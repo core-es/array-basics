@@ -4,11 +4,15 @@ Jack: Hey, I'm `jack dawson`.
 
 Rose: Hello jack,
 
-	console.log(`Hello ${name[0]}`);
+	console.log(`Hello ${hero[0]}`);
 	
 Rose: This is `rose dewitt bukater`
 
 	const heroine = ['rose', 'dewitt bukater'];
+
+Rose: Hi rose,
+
+	console.log(`Hello ${heroine[0]}`);
 
 Jack: What are you doing?  
 Rose: I'm having breakfast.
